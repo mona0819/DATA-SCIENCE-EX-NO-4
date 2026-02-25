@@ -35,7 +35,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING 
-```
+```python
 # Import Required Libraries
 import numpy as np
 import pandas as pd
